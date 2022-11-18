@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": 1648322820550,
+    "id": 1,
+    "products": []
+  },
+  {
+    "timestamp": 1648322925849,
+    "id": 5,
+    "products": []
+  },
+  {
+    "timestamp": 1648322926554,
+    "id": 6,
+    "products": [
+      {
+        "id": 3,
+        "timestamp": 1648319850314,
+		    "title": "MSI RX 6900 XT Gaming X Trio 16 Gb",
+		    "price": 1343,
+        "description":"Caracteristicas: .........",
+        "code": "XP-3",
+		    "thumbnail": "https://m.media-amazon.com/images/I/815a7kn-FDS._AC_SL1500_.jpg",
+        "stock": 300
+      },
+      {
+        "id": 1,
+        "timestamp": 1648319850314,
+		    "title": "ASUS TUF Gaming AMD RX 6950 XT 16 Gb OC EDITION",
+		    "price": 1181,
+        "description":"Caracteristicas: .........",
+        "code": "XP-1",
+		    "thumbnail": "https://m.media-amazon.com/images/I/81Y+Zr51m4L._AC_SX522_.jpg",
+        "stock": 100
+      }
+    ]
+  },
+  {
+    "timestamp": 1648322927170,
+    "id": 7,
+    "products": []
+  },
+  {
+    "timestamp": 1648322927639,
+    "id": 8,
+    "products": []
+  },
+  {
+    "timestamp": 1648322928129,
+    "id": 9,
+    "products": []
+  }
+]
